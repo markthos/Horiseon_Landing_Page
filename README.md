@@ -37,7 +37,7 @@ This landing page is licensed under the [MIT License](https://opensource.org/lic
 
 ## Screenshot
 
-<img src="assets\images\ScreenShot Tool -20230503205730.png">
+<img src="assets\images\screencapture-markthos-github-io-Horiseon-Landing-Page-2023-05-09-14_04_01.png">
 
 ## Link
 
