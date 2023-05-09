@@ -42,6 +42,6 @@ This landing page is licensed under the [MIT License](https://opensource.org/lic
 ## Link
 
 <ul>
-  <li><a href="https://markthos.github.io/challenge1/">URL of deployed application</a></li>
-  <li><a href="https://github.com/markthos/challenge1.git">URL of GitHub repository</a></li>
+  <li><a href="https://markthos.github.io/Horiseon_Landing_Page/">URL of deployed webpage</a></li>
+  <li><a href="https://github.com/markthos/Horiseon_Landing_Page.git">URL of GitHub repository</a></li>
 </ul>
