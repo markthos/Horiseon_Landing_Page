@@ -32,12 +32,9 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*syle the unordered list in the header with positioning, text color, and spacing*/
-.header div ul {
+/*syle the div header with positioning, text color, and spacing*/
+.header div {
     list-style-type: none;
-}
-
-.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -85,22 +82,10 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-/*styles the individual benefit classes to make them standout*/
-.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 /*styles the headers for each individual benefit class to make them center aligned*/
 .benefits h3 {
     margin-bottom: 10px;
@@ -142,29 +127,11 @@ p {
     color: #ffffff;
 }
 /*sytles the maximum height of the images in the detail article sections for uniformity and usability*/
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.content img {
     max-height: 200px;
 }
 /*styles the headers for the detailed article section at the bottom to make them standout and easy to read*/
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
